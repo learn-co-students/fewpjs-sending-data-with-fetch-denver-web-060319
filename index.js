@@ -22,6 +22,6 @@ function submitData(name, email)
     })
     .catch(function(error){
       const body = document.querySelector("body")
-        body.innerHTML = error
+        body.append(error)
     })
 }
