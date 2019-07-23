@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,46 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Kane",
+      "dogBreed": "German Sherperd",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Doodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Schmoodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Schmoodle",
+      "id": 8
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 9
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +59,223 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 1
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 2
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 3
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 4
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 5
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 6
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 7
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 8
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 9
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 10
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 11
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 12
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 13
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 14
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 15
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 16
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 17
+    },
+    {
+      "name": "userName",
+      "email": "userEmail",
+      "id": 18
+    },
+    {
+      "name": "",
+      "email": "userEmail",
+      "id": 19
+    },
+    {
+      "name": "name",
+      "email": "userEmail",
+      "id": 20
+    },
+    {
+      "name": "Steve",
+      "email": "userEmail",
+      "id": 21
+    },
+    {
+      "name": "<<BS_START>>{\"bs\":{\"hardReload\":true,\"scroll\":{\"x\":0,\"y\":0}}}<<BS_START>>",
+      "email": "userEmail",
+      "id": 22
+    },
+    {
+      "name": "name",
+      "email": "email",
+      "id": 23
+    },
+    {
+      "name": "name",
+      "email": "email",
+      "id": 24
+    },
+    {
+      "name": "name",
+      "email": "email",
+      "id": 25
+    },
+    {
+      "name": "name",
+      "email": "email",
+      "id": 26
+    },
+    {
+      "name": "Steve",
+      "email": "email",
+      "id": 27
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 28
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 29
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 30
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 31
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 32
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 33
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 34
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 35
+    },
+    {
+      "name": "<<BS_START>>{\"bs\":{\"hardReload\":true,\"scroll\":{\"x\":0,\"y\":0}}}<<BS_START>>",
+      "email": "steve@steve.com",
+      "id": 36
+    },
+    {
+      "name": "name",
+      "email": "email",
+      "id": 37
+    },
+    {
+      "name": "Steve",
+      "email": "email",
+      "id": 38
+    },
+    {
+      "name": "Steve",
+      "email": "\"email\"",
+      "id": 39
+    },
+    {
+      "name": "Steve",
+      "email": "steve@",
+      "id": 40
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.email",
+      "id": 41
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 42
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
